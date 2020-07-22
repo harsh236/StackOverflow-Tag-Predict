@@ -32,5 +32,10 @@ Imagine we have t1,t2,t3,…,tn labels and ‘A’ is basically set of all label
 <br /><br />And we also know the formula of f1 score as<br />
 <align="center">![1_cdmfghgZw3d7-rm0YYZPAQ](https://user-images.githubusercontent.com/51243187/88142156-a2bd1600-cc12-11ea-9c16-0e51f399c257.png)
 
+The formulas for Micro F1 and Macro F1 are<br/>
+![image](https://user-images.githubusercontent.com/51243187/88143960-be75eb80-cc15-11ea-8028-5c033687edfe.png)
+
+![image](https://user-images.githubusercontent.com/51243187/88144064-f3823e00-cc15-11ea-8526-1d8b812ac2cb.png)
+
 
 
